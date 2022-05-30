@@ -18,3 +18,12 @@ dependencies: [
   .package(url: "https://github.com/hugo-pivaral/UITabControl.git", .exact("1.0.0")),
 ],
 ```
+After installing the SPM into your project import UITabControl with
+
+```swift
+import UITabControl
+```
+
+## Author
+
+[Hugo Pivaral](https://hugop.dev)

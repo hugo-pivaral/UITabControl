@@ -5,3 +5,16 @@
 </p>
 
 ![UITabControl-Expo](https://user-images.githubusercontent.com/18062144/171046764-24088d4c-30ff-4d95-8d2e-2b166748e6a8.png)
+
+## Requirements
+iOS 15.0 and higher
+
+## Installation
+
+<a href="https://swift.org/package-manager/" target="_blank">Swift Package Manager</a>:
+
+```swift
+dependencies: [
+  .package(url: "https://github.com/hugo-pivaral/UITabControl.git", .exact("1.0.0")),
+],
+```

@@ -83,3 +83,7 @@ tabControl.setAppearance(appearance)
 ## Author
 
 [Hugo Pivaral](https://hugop.dev)
+
+## License
+
+UITabControl is under the MIT license. See [LICENSE](./LICENSE) for details.

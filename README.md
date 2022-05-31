@@ -80,6 +80,8 @@ let appearance = UITabControl.Appearance(style: UITabControl.Style,
 tabControl.setAppearance(appearance)
 ```
 
+![styles](https://user-images.githubusercontent.com/18062144/171096640-416ce84b-13d8-4d83-8605-fbaa0b939358.png)
+
 ## Author
 
 [Hugo Pivaral](https://hugop.dev)
